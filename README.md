@@ -19,7 +19,7 @@ Here’s a structured version of what the code might look like:
 
 # Model Result
 
-accuracy: 0.9866 - loss: 0.0443
-Test Accuracy: 0.99
+Test Accuracy: 0.9866 (0.99)
+loss: 0.0443
 Digit with most mispredictions: 7
 Number of mispredictions: 38
